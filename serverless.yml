@@ -44,3 +44,5 @@ package:
   patterns:
     - '!node_modules/.prisma/client/query-engine-*'
     - 'node_modules/.prisma/client/query-engine-rhel-*'
+    - '!node_modules/prisma/libquery_engine-*'
+    - '!node_modules/@prisma/engines/**'
